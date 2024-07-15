@@ -1,0 +1,5 @@
+﻿  ProjekatC.c
+C:\Users\User\source\repos\ProjekatC\ProjekatC\ProjekatC.c(126,28): warning C4477: 'fscanf_s' : format string '%49s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'char *'
+C:\Users\User\source\repos\ProjekatC\ProjekatC\ProjekatC.c(126,28): warning C4477: 'fscanf_s' : format string '%4s' requires an argument of type 'char *', but variadic argument 3 has type 'double *'
+C:\Users\User\source\repos\ProjekatC\ProjekatC\ProjekatC.c(126,28): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  ProjekatC.vcxproj -> C:\Users\User\source\repos\ProjekatC\x64\Debug\ProjekatC.exe
